@@ -38,3 +38,25 @@ We'll start by creating an Amazon S3 bucket that will be used throughout the wor
 2. Click **Open Jupyter**. You will now see the Jupyter homepage for your notebook instance.
 
 
+### 4. Clone the workshop repository to your notebook
+
+1. In the Jupyter notebook page, click on **New** and then click **Terminal**
+
+![open terminal](./images/open_terminal.png)
+
+2. In the command prompt window, paste the following command and press enter:
+
+```cd SageMaker/```
+
+3. Paste the next command and press enter:
+
+```git clone https://github.com/awslabs/amazon-sagemaker-workshop.git```
+
+### 5. Begin Lab 1: 
+
+1. Back on the Jupyter notebook home page, click on **SageMaker Examples** tab, and underneath **Introduction to Amazon Algorithms**, look for **blazingtext_text_classification_dbpedia.ipynb**
+
+2. Click on **Use** and then click on **Create copy**
+
+3. You will then be sent to the notebook itself. Read each cell carefully and execute the cells in sequence to complete the lab.
+4. Ask your friendly SA's for help!
