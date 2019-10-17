@@ -54,7 +54,7 @@ We'll start by creating an Amazon S3 bucket that will be used throughout the wor
 
 ### 5. Begin Lab 1: 
 
-1. Back on the Jupyter notebook home page, click on **SageMaker Examples** tab, and underneath **Introduction to Amazon Algorithms**, look for **blazingtext_text_classification_dbpedia.ipynb**
+1. Back on the Jupyter notebook home page, click on **SageMaker Examples** tab, and underneath **Introduction to Amazon Algorithms**, look for **semantic_segmentation_pascalvoc/semantic_segmentation_pascalvoc.ipynb**
 
 2. Click on **Use** and then click on **Create copy**
 
